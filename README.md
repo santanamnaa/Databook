@@ -1,2 +1,2 @@
-# DataBook2.github.io
+# DataBook
 databook is library management system
