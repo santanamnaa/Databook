@@ -46,8 +46,7 @@ Once the server is running, you can access the application in your web browser.
 4. **Delete Records:** Click on the "Delete" button next to a record to remove it.
 
 ## Demo
-
-To see DataBook in action, watch the [demo video](https://yourdemo.url).
+![alt_text](https://youtu.be/bRnmYgGrwZk?si=89uR8QF6XSXsdDiE).
 
 ## Contributing
 
