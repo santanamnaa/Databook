@@ -46,7 +46,7 @@ Once the server is running, you can access the application in your web browser.
 4. **Delete Records:** Click on the "Delete" button next to a record to remove it.
 
 ## Demo
-![alt_text](https://github.com/santanamnaa/Databook/blob/main/demo%20databook.mp4).
+[https://github.com/santanamnaa/Databook/blob/main/demo%20databook.mp4].
 
 ## Contributing
 
