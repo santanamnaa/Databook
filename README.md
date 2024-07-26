@@ -46,7 +46,7 @@ Once the server is running, you can access the application in your web browser.
 4. **Delete Records:** Click on the "Delete" button next to a record to remove it.
 
 ## Demo
-[https://github.com/user-attachments/assets/0c614bad-6fe3-49e7-9fe5-46bacc6d674e]
+https://github.com/user-attachments/assets/0c614bad-6fe3-49e7-9fe5-46bacc6d674e
 
 ## Contributing
 
