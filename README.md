@@ -33,7 +33,7 @@ To get a local copy up and running, follow these simple steps.
 Clone the repo
 
    ```sh
-   git clone https://github.com/yourusername/databook.git
+   git clone https://github.com/santanamnaa/databook.git
    ```
 
 ## Usage
