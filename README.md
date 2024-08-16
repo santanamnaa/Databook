@@ -1,4 +1,4 @@
-# DataBook
+# d a t a B o o k
 
 DataBook is a library management system designed to manage who borrows books from the library. This application is built using PHP and utilizes MySQL as its database. DataBook provides essential features such as adding, viewing, editing, and deleting records to ensure efficient library management.
 
